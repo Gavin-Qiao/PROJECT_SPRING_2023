@@ -1,0 +1,3 @@
+C:/Users/mohan/Desktop/PROJECT_SPRING_2023/Xiangqi/cmake-build-debug/CMakeFiles/Xinagqi.dir
+C:/Users/mohan/Desktop/PROJECT_SPRING_2023/Xiangqi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mohan/Desktop/PROJECT_SPRING_2023/Xiangqi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
