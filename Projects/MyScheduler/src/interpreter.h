@@ -5,6 +5,8 @@
 #ifndef PROJECT_SPRING_2023_INTERPRETER_H
 #define PROJECT_SPRING_2023_INTERPRETER_H
 
+#include <vector>
+#include <string>
 namespace core
 {
     int interpreter(std::vector<std::string> tokens);

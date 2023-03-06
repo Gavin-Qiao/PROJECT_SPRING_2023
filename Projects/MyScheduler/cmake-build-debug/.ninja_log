@@ -1,0 +1,9 @@
+# ninja log v5
+1	496	6998464683947906	CMakeFiles/MyScheduler.dir/main.cpp.obj	a96126b7168f15a2
+499	649	6998464685426764	MyScheduler.exe	2f3177a68d424b16
+6	687	6998469828535393	CMakeFiles/MyScheduler.dir/src/event.cpp.obj	7e830540774c11d1
+0	776	6998469829485877	CMakeFiles/MyScheduler.dir/src/day.cpp.obj	a7b5ebb1c2fd2c8a
+16	928	6998469831011236	CMakeFiles/MyScheduler.dir/src/main.cpp.obj	1c478a05fa97ba5d
+3	590	6998470088881422	CMakeFiles/MyScheduler.dir/src/main.cpp.obj	1c478a05fa97ba5d
+8	491	6998470206029712	CMakeFiles/MyScheduler.dir/src/interpreter.cpp.obj	cacad1851c5a689b
+2	534	6998470206489660	CMakeFiles/MyScheduler.dir/src/main.cpp.obj	1c478a05fa97ba5d
